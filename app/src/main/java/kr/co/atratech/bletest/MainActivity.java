@@ -14,6 +14,8 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 
+// BLETest App
+
 public class MainActivity extends ActionBarActivity {
 
     private static final String TAG = "zena";
@@ -114,7 +116,7 @@ public class MainActivity extends ActionBarActivity {
         invalidateOptionsMenu();
     }
 
-    
+
 
 
     // Device scan callback.
