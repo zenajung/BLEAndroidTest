@@ -114,6 +114,7 @@ public class MainActivity extends ActionBarActivity {
         invalidateOptionsMenu();
     }
 
+    
 
 
     // Device scan callback.
